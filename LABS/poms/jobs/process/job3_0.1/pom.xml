@@ -28,13 +28,13 @@
     <talend.routine.groupid>org.example.labs.code</talend.routine.groupid>
     <current.bundle.resources.dir>${basedir}/src/main/bundle-resources</current.bundle.resources.dir>
     <talend.job.jvmargs>-Xms256M -Xmx1024M -Dfile.encoding=UTF-8 </talend.job.jvmargs>
-    <talend.project.branch>branches/v1.2</talend.project.branch>
+    <talend.project.branch>master</talend.project.branch>
     <talend.job.context>Default</talend.job.context>
     <talend.job.stat>true</talend.job.stat>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
     <talend.job.name>job3</talend.job.name>
-    <talend.job.id>_WL2XEMyaEeixEYS5V2H4uw</talend.job.id>
+    <talend.job.id>_zKCaIMyZEeixEYS5V2H4uw</talend.job.id>
     <talend.project.id>0</talend.project.id>
     <talend.job.framework></talend.job.framework>
     <talend.job.type>Standard</talend.job.type>
